@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\ExamPortal</_PublishTargetUrl>
+    <History>True|2024-04-17T23:05:13.4749689Z;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ExamDb">
+      <Value>workstation id=ExamDatabase.mssql.somee.com%3bpacket size=4096%3buser id=knlinm_SQLLogin_1%3bpwd=txyq149yvd%3bdata source=ExamDatabase.mssql.somee.com%3bpersist security info=False%3binitial catalog=ExamDatabase%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
